@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="O3~75S4IvtnGvFKy#1KZ" x="274" y="-47"><statement name="HANDLER"><block type="device_pause" id="wyN1Rdp3o`bSxU7L^D(w"><value name="pause"><shadow type="timePicker" id="2SK%2j=El?a7!rbV`MV`"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="``v=}]+/[8d/T?3vh:nx"><field name="LEDS">`
+        . # # # . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="n;DC.7~/=8c;aZgA`|CZ"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="i4o#?SUmmsNunsx.k!Go"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="Z~3H9zhp8C^0:t_#7)O-"><value name="pause"><shadow type="timePicker" id="k+!^/:7Gs}G:lYLsDiM+"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="3XeSd`Yu|B,AXKG/t~8s" x="0" y="0"></block></xml>
